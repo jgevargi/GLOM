@@ -1,5 +1,5 @@
 # GLOM
-An incomplete implementation of Geoffrey Hinton's paper "How to represent part-whole hierarchies in a neural network" for MNIST Dataset.
+An implementation of Geoffrey Hinton's paper "How to represent part-whole hierarchies in a neural network" for MNIST Dataset.
 To understand this implementation, please watch [Yannick Kilcher's GLOM video](https://www.youtube.com/watch?v=cllFzkvrYmE&ab_channel=YannicKilcher), then read this README.md, then read the code. 
 
 ## Running
