@@ -1,5 +1,5 @@
-﻿﻿# GLOM
-An incomplete implementation of Geoffrey Hinton's paper "How to represent part-whole hierarchies in a neural network" for MNIST Dataset.
+# GLOM
+An implementation of Geoffrey Hinton's paper "How to represent part-whole hierarchies in a neural network" for MNIST Dataset.
 To understand this implementation, please watch [Yannick Kilcher's GLOM video](https://www.youtube.com/watch?v=cllFzkvrYmE&ab_channel=YannicKilcher), then read this README.md, then read the code. 
 
 ## Running
@@ -9,7 +9,7 @@ If you run out of gpu memory, decrease the batch_size variable.
 If you want to look at the code on github and it fails, try reloading or refreshing several times. 
 
 ## Results
-The best models, which have been posted under the best_models folder, reached an accuracy of about 47%.
+The best models, which have been posted under the best_models folder, reached an accuracy of about 76%.
 
 ## Implementation details
 Three Types of networks per layer of vectors
